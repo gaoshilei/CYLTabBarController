@@ -9,13 +9,10 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-	</dict>
-	<key>SuppressBuildableAutocreation</key>
-	<dict>
-		<key>0B732E1D1CD036DA00C998CC</key>
+		<key>CYLTabBarController-Swift.xcscheme_^#shared#^_</key>
 		<dict>
-			<key>primary</key>
-			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
 		</dict>
 	</dict>
 </dict>
